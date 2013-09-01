@@ -4,9 +4,6 @@
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-wfeely</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<scm>
-		<url>scm:git:git://github.com/wfeely/hw0-wfeely.git</url>
-	</scm>
 	<repositories>
 		<repository>
 			<id>deployment</id>
@@ -60,4 +57,8 @@ course-snapshots</url>
 			<version>3.2.0</version>
 		</dependency>
 	</dependencies>
+	<scm>
+		<connection>scm:git:git://github.com/wfeely/hw0-wfeely.git</connection>
+		<developerConnection>scm:git:git://github.com/wfeely/hw0-wfeely.git</developerConnection>
+	</scm>
 </project>
