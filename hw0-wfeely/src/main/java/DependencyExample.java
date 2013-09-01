@@ -7,18 +7,13 @@ import edu.stanford.nlp.process.Tokenizer;
 
 /**
  * An example for Homework 0 of 11791 F13
- * 
  * @author Wes Feely <wfeely@cs.cmu.edu>
  */
 public class DependencyExample {
   /**
    * Tokenize a sentence in the argument, and print out the tokens to the console.
-   * 
    * @param args
-   *          Set the first argument as the sentence to
-   * 
-   *          be tokenized.
-   * 
+   *          Set the first argument as the sentence to be tokenized.
    */
   public static void main(String[] args) {
     TokenizerFactory<Word> factory = PTBTokenizerFactory.newTokenizerFactory();
