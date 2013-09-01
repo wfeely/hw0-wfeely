@@ -4,8 +4,8 @@
 	<artifactId>hw0-wfeely</artifactId>
 	<version>0.0.7</version>
 	<scm>
-		<connection>scm:git:git@github.com:wfeely/hw0-wfeely</connection>
-		<developerConnection>scm:git:git@github.com:wfeely/hw0-wfeely</developerConnection>
+		<connection>scm:git:git@github.com:wfeely/hw0-wfeely.git</connection>
+		<developerConnection>scm:git:git@github.com:wfeely/hw0-wfeely.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
